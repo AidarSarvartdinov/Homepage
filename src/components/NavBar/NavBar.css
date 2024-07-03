@@ -1,0 +1,21 @@
+.header-line {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.left-header {
+    float: left;
+    width: 40%;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+
+.right-header {
+    width: 60%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    
+}

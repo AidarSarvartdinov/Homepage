@@ -1,0 +1,10 @@
+#main-home {
+    display: flex;
+    text-align: center;
+    padding-top: 75px;
+}
+
+#main-photo {
+    height: 400px;
+    border-radius: 45px;
+}
